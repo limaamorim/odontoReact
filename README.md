@@ -35,6 +35,20 @@ npm start
 O aplicativo se conecta à API disponível em:  
 `https://odontoforense-backend.onrender.com/api/`
 
+## Usuários para Teste
+
+- **Administrador**  
+  Email: vinicius.santos@gmail.com  
+  Senha: vsantos123
+
+- **Perito**  
+  Email: samuel.mendes@gmail.com  
+  Senha: smendes123
+
+- **Assistente**  
+  Email: eduarda.oliveira@gmail.com  
+  Senha: eoliveira123
+
 ## Estrutura de Telas
 
 - `LoginScreen.js`
